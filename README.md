@@ -1,10 +1,10 @@
 # Aprendizado para Web
 
-## [HTML](https://github.com/gabrielperessilva/Aprendizado-para-Web/blob/main/HTML)
+## [HTML](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML)
 
-### [Parte 1](https://github.com/gabrielperessilva/Aprendizado-para-Web/blob/main/HTML/Parte1)
+### [Parte 1](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1)
 
-1. [Introdução as Tags](https://github.com/gabrielperessilva/Aprendizado-para-Web/blob/main/HTML/Parte1/IntroTags.html)
+1. [Introdução as Tags](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1/IntroTags.html)
 
    O elemento `<body>` do HTML representa o conteúdo de um documento HTML. Sendo permitido apenas um `<body>` por documento
 
