@@ -2,7 +2,8 @@
 
 ## [HTML](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML)
 
-### [Parte 1](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1)
+### [Parte 1
+](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1)
 
 1. [Introdução as Tags](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1/IntroTags.html)
 
@@ -34,11 +35,38 @@
 
    Continunado o elemento `<style>` :
 
-   * Use the `style` attribute for styling HTML elements
-   * Use `background-color` for background color
-   * Use `color` for text colors
-   * Use `font-family` for text fonts
-   * Use `font-size` for text sizes
-   * Use `text-align` for text alignment
+   `background-color` para cor de fundo
 
-   ...
+   `color` para cores de texto
+
+   `font-family` para fontes de texto
+
+   `font-size` para tamanhos de texto
+
+   `text-align` para alinhamento de texto
+
+   Os elementos de formatação foram projetados para exibir tipos especiais de texto:
+
+   `<b>` - Texto em negrito
+   `<strong>` - Texto importante
+   `<i>` - Texto em itálico
+   `<em>` - Texto enfatizado
+   `<mark>` - Texto marcado
+   `<small>` - Texto menor
+   `<del>` - Texto excluído
+   `<ins>` - Texto inserido
+   `<sub>` - Texto subscrito
+   `<sup>` - Texto sobrescrito
+3. Quotation e Citation
+
+   O Elemento HTML `<blockquote>` (ou Elemento HTML de citação de bloco) indica que o texto incluído é uma longa citação. Normalmente, este é processado visualmente pelo recuo (ver [Notas (en-US)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote#notes "Currently only available in English (US)") sobre como mudá-lo). A URL para a fonte da citação pode ser dada usando o atributo  cite , enquanto uma representação de texto da fonte pode ser dada usando o [`<cite>`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/cite) elemento.
+
+   O elemento HTML `<q>` indica que o texto dentro da tag é uma pequena citação. Este elemento destina-se a citações curtas que não requerem marcações de parágrafo; para citações maiores use o elemento [`<blockquote>`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/blockquote).
+
+   O *Elemento* _HTML `<abbr>` _(ou Elemento de Abreviação HTML) representa uma abreviação e opcionalmente fornece uma descrição completa para ela. Se presente, o atributo **`title`** deve conter a descrição completa e apenas ela.
+
+   O **elemento HTML `<address>`** fornece informações de contato para seu ancestral [`<article>`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/article) ou [`<body>`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/body) mais próximo; no segundo caso, ele se aplica ao documento inteiro.
+
+   O **elemento** **HTML `<cite>`** representa uma referência a um trabalho artístico. Deve incluir o título do trabalho ou uma URL de referência, que pode ser em uma forma abreviada de acordo com as convenções usadas para a adição dos metadados de citação.
+
+   O ***elemento* HTML `<bdo>` **( *bidirectional override* ) é usado para substituir a direcionalidade atual do texto. Isso faz com que a direcionalidade dos personagens seja ignorada em favor da direcionalidade especificada.
