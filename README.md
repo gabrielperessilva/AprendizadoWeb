@@ -3,6 +3,7 @@
 ## [HTML](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML)
 
 ### [Parte 1
+
 ](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1)
 
 1. [Introdução as Tags](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1/IntroTags.html)
@@ -57,7 +58,7 @@
    `<ins>` - Texto inserido
    `<sub>` - Texto subscrito
    `<sup>` - Texto sobrescrito
-3. Quotation e Citation
+3. [Quotation e Citation](https://github.com/gabrielperessilva/AprendizadoWeb/blob/main/HTML/Parte1/QuotationCitation.html)
 
    O Elemento HTML `<blockquote>` (ou Elemento HTML de citação de bloco) indica que o texto incluído é uma longa citação. Normalmente, este é processado visualmente pelo recuo (ver [Notas (en-US)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote#notes "Currently only available in English (US)") sobre como mudá-lo). A URL para a fonte da citação pode ser dada usando o atributo  cite , enquanto uma representação de texto da fonte pode ser dada usando o [`<cite>`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/cite) elemento.
 
@@ -70,3 +71,17 @@
    O **elemento** **HTML `<cite>`** representa uma referência a um trabalho artístico. Deve incluir o título do trabalho ou uma URL de referência, que pode ser em uma forma abreviada de acordo com as convenções usadas para a adição dos metadados de citação.
 
    O ***elemento* HTML `<bdo>` **( *bidirectional override* ) é usado para substituir a direcionalidade atual do texto. Isso faz com que a direcionalidade dos personagens seja ignorada em favor da direcionalidade especificada.
+4. CSS
+
+   Use o atributo de estilo HTML para estilo embutido
+   Use o elemento HTML `<style>` para definir CSS interno
+   Use o elemento HTML `<link>` para se referir a um arquivo CSS externo
+   Use o elemento HTML `<head>` para armazenar os elementos `<style>` e `<link>`
+   Use a propriedade CSS color para cores de texto
+   Use a propriedade CSS font-family para fontes de texto
+   Use a propriedade CSS font-size para tamanhos de texto
+   Use a propriedade CSS border para bordas
+   Use a propriedade CSS padding para espaço dentro da borda
+   Use a propriedade CSS margin para espaço fora da borda
+
+   O atributo rel no `<link>` obrigatório especifica o relacionamento entre o documento atual e o documento/recurso vinculado (stylesheet:Imports a style sheet)
